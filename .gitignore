@@ -1,0 +1,10 @@
+# .gitignore
+# Select the file is unnecessary
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
